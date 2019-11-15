@@ -5,7 +5,7 @@ p {
   margin: 0 0 24px;
     
   }
-  
+
 ul {
   font-family: 'Source Sans Pro', sans-serif; 
   font-size: 18px; 
@@ -17,8 +17,8 @@ ul {
 img {
     height: auto; 
     width: auto; 
-    max-width: 500px; 
-    max-height: 500px;
+    max-width: 550px; 
+    max-height: 5500px;
     
 }
 
@@ -59,4 +59,14 @@ img {
 
 #copyright { 
   text-transform: uppercase;
+}
+
+.enlarge {
+  height: auto; 
+  width: auto; 
+  max-width: 800px; 
+  max-height: 800px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto; 
 }
